@@ -6,7 +6,7 @@
 
 Public downloads and documentation for **RigOne** by GW3JVB.
 
-RigOne is a Windows 11 Icom transceiver controller designed to give radio operators a focused, attractive way to control the everyday functions they actually use.
+RigOne is a Windows 11 transceiver controller designed to give radio operators a focused, attractive way to control the everyday functions they actually use.
 
 It doesn't do everything. It does what you need.
 
@@ -33,8 +33,10 @@ Then run the installer and follow the on-screen instructions.
 RigOne is currently being tested with:
 
 - Windows 11
-- Icom IC-7300
-- USB/COM CI-V control
+- Icom IC-7300 direct USB/COM CI-V control
+- Initial Hamlib support, tested so far with the Icom IC-7300
+
+Feedback from operators using other Hamlib-supported radios is very welcome.
 
 ## Support
 

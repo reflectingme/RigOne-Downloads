@@ -1,10 +1,18 @@
 # RigOne Downloads
 
+<p align="center">
+  <img src="assets/rigone-icon.png" alt="RigOne icon" width="180">
+</p>
+
 Public downloads and documentation for **RigOne** by GW3JVB.
 
 RigOne is a Windows 11 Icom transceiver controller designed to give radio operators a focused, attractive way to control the everyday functions they actually use.
 
 It doesn't do everything. It does what you need.
+
+<p align="center">
+  <img src="assets/rigone-screenshot.png" alt="RigOne connected to an Icom IC-7300" width="760">
+</p>
 
 ## Download
 

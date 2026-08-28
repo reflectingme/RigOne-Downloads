@@ -16,14 +16,14 @@ It doesn't do everything. It does what you need.
 
 ## Download
 
-The installer will be available from the **Releases** page:
+The latest installer is available from the **Latest Release** page:
 
-<https://github.com/reflectingme/RigOne-Downloads/releases>
+<https://github.com/reflectingme/RigOne-Downloads/releases/latest>
 
-Download the latest file named:
+Current release:
 
 ```text
-RigOne-Setup-vX.X.X.exe
+RigOne-Setup-v1.1.5.exe
 ```
 
 Then run the installer and follow the on-screen instructions.
@@ -38,11 +38,13 @@ RigOne is currently being tested with:
 
 Feedback from operators using other Hamlib-supported radios is very welcome.
 
+The direct IC-7300 control path provides the fullest RigOne experience, including live scope, panadapter, and waterfall support. Hamlib support broadens compatibility, but available features depend on what each Hamlib backend exposes for the selected radio.
+
 ## Support
 
 This software is developed voluntarily by John Burns, GW3JVB, in spare time.
 
-- Software page: <https://gw3jvb.uk/software/>
+- Software page: <https://gw3jvb.uk/software/rigone/>
 - Discord: <https://discord.gg/yTW4DzBBKQ>
 - Email: <mailto:gw3jvb@gmail.com>
 - PayPal: <https://www.paypal.com/paypalme/JohnVincentBurns>

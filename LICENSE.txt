@@ -1,0 +1,16 @@
+RigOne Proprietary Software Notice
+
+Copyright © 2026 John Burns GW3JVB. All rights reserved.
+
+RigOne is proprietary closed-source software. The source code, user interface
+design, branding, application artwork, installer assets, documentation, and
+other original RigOne materials are not licensed for copying, redistribution,
+modification, reverse engineering, sublicensing, or reuse without prior written
+permission from John Burns GW3JVB.
+
+This notice applies to RigOne's original work only. Third-party components,
+frameworks, tools, libraries, and runtime files remain subject to their own
+licence terms and notices.
+
+RigOne is not affiliated with, endorsed by, or sponsored by Icom Inc., Yaesu
+Musen Co., Ltd., Kenwood Corporation, or any other radio manufacturer.

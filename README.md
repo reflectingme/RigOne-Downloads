@@ -23,7 +23,7 @@ The latest installer is available from the **Latest Release** page:
 Current release:
 
 ```text
-RigOne-Setup-v1.1.5.exe
+RigOne-Setup-v1.2.8.exe
 ```
 
 Then run the installer and follow the on-screen instructions.
@@ -33,19 +33,21 @@ Then run the installer and follow the on-screen instructions.
 RigOne is currently being tested with:
 
 - Windows 11
-- Icom IC-7300 direct USB/COM CI-V control
-- Initial Hamlib support, tested so far with the Icom IC-7300
+- Windows 10 version 2004/build 19041 or later
+- Native Icom USB/COM CI-V control, with live scope, panadapter, and waterfall support where the radio provides compatible frames
+- Initial native Yaesu FT-DX10 CAT control, including controls for the radio's own scope display
+- Hamlib support, tested so far with the Icom IC-7300
 
-Feedback from operators using other Hamlib-supported radios is very welcome.
+Feedback from operators using other Icom, Yaesu, or Hamlib-supported radios is very welcome.
 
-The direct IC-7300 control path provides the fullest RigOne experience, including live scope, panadapter, and waterfall support. Hamlib support broadens compatibility, but available features depend on what each Hamlib backend exposes for the selected radio.
+Native Icom control provides the fullest RigOne live scope experience where compatible scope frames are available. Hamlib and native Yaesu support broaden compatibility, but available features depend on what each radio/control path exposes.
 
 ## Support
 
 This software is developed voluntarily by John Burns, GW3JVB, in spare time.
 
 - Software page: <https://gw3jvb.uk/software/rigone/>
-- Discord: <https://discord.gg/yTW4DzBBKQ>
+- Discord support and feedback: <https://discord.gg/kjXTSK2cYZ>
 - Email: <mailto:gw3jvb@gmail.com>
 - PayPal: <https://www.paypal.com/paypalme/JohnVincentBurns>
 - Buy Me a Coffee: <https://buymeacoffee.com/reflectingme>
